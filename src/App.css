@@ -1,3 +1,15 @@
+h1.counter-positive {
+  color: green;
+}
+
+h1.counter-negative {
+  color: red;
+}
+
+.message {
+  margin-top: 60px;
+}
+
 .App {
   text-align: center;
 }
